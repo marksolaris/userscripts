@@ -15,6 +15,7 @@
 // Setup:   Configure the four variables below before using
 //          Use Chrome Developer Tools Network tab to acquire the
 //          Basic auth value via an inital manual magnet add. It's in the HTTP headers
+//          If it doesn't work, are you properly logged into the seedhost on another tab?
 
 var seedhost_url = 'https://my.seedhost.com';
 var seedhost_user = 'myuserid';
